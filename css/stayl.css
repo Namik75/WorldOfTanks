@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100;1,400&display=swap');
+body{
+  font-family: 'Roboto Mono', monospace;
+  
+  background-repeat: no-repeat;
+ 
+}
+.d-inline-block-align-top{
+    max-width: 175px;
+    max-height: 75px;
+}
+.dropdown{
+    position: relative;
+}
+ .hidden {
+   display: none;
+ }
+ .tenk_new{
+  display: flex;
+  
+}
+.cooki{
+  border-bottom: white solid 3px;
+  margin: 50px;
+}
+.cooki img{
+  max-width: 300px;
+  max-height: 700px;
+  margin-top: -70px;
+}
+ .s-third{ 
+   background-color: black;
+   color: white;
+      padding: 5px;
+      margin-top: -5px;
+  }
+  .p-bold-w{
+    margin-bottom: 30px;
+    text-align: left;
+    padding: 20px;
+    border-left: solid rgb(255, 255, 255) 5px;
+}
+footer{
+  background-color: black;
+  color: white;
+  margin: 0;
+  text-align: left;
+}
+.f-main{
+  display: flex;
+  justify-content: space-around;
+  border-bottom: white 1px solid;
+}
+footer a{
+  color: white;
+}
+.contacts{
+  text-align: left;
+}
+form input{
+  padding: 0;
+  margin: 0;
+  height: 34px;
+}
+.f-social{
+  background-color: white;
+  color: #000;
+  padding-top: 5px;
+  text-align: center;
+}
+.f-social img{
+  width: 40px;
+  height: 40px;
+}
+.header-block__title{
+  text-align: center;
+}
+.whoweare__video{
+text-align: right;
+max-width: 450px;
+max-height: 350px;
+
+}
+.whoweare__content{
+  text-align: right;
+  padding: 15px;
+}
+
+
+
+
+
